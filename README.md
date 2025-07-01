@@ -2,6 +2,8 @@
 
 A simple real-time game analytics dashboard built with JavaScript, Chart.js, HTML, and CSS. This project generates random player session data, displays player scores in a bar chart, and shows a top 10 leaderboard.
 
+![img](https://ryuru.com/wp-content/uploads/2025/07/Final-Dashboard-2048x1401.png)
+
 ## Features
 
 - Generates random player data (ID, score, session duration)
