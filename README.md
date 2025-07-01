@@ -9,6 +9,11 @@ A simple real-time game analytics dashboard built with JavaScript, Chart.js, HTM
 - Shows a top 10 player leaderboard
 - Simple, clean design for easy customization
 
+## Note
+
+This repo is prepared for the Ryuru blog post.  
+Here is the link to the blog post: [Here](https://ryuru.com/building-game-analytics-dashboard-with-javascript/)
+
 ## Getting Started
 
 1. Clone the repo:
